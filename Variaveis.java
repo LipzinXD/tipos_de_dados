@@ -9,7 +9,12 @@ public class Variaveis{
     long bancoS = 60000;
     double salario = 1302.00;
     float salarioMenor = 1212.00f;
-    System.out.println(idade);
+
+    String nome;
+    nome="Felipe";  
+    System.out.println(nome);
+
+    System.out.println("Meu nome é: " +nome+ " E minha idade é: " +idade+ " anos");
     System.out.println(letra);
     System.out.println(vivo);
     System.out.println(quantidadeBola);
