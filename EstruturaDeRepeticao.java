@@ -54,5 +54,7 @@ public class EstruturaDeRepeticao {
          System.out.println("O fatorial de " +j + "=" +fatResult);
           fatResult = 1;
          }
+
+         
 }
 } 
